@@ -1,4 +1,4 @@
-# Meterian Security Report Tool
+# Meterian Sample Report Tool
 
 Generates a CSV report of all projects and branches in your Meterian account, including security advisory counts and status.
 
