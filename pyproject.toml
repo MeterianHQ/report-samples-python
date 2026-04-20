@@ -1,0 +1,8 @@
+[project]
+name = "security-report-tool"
+version = "0.1.0"
+description = "Generate a CSV security report for all Meterian projects and branches"
+requires-python = ">=3.12"
+dependencies = [
+    "requests>=2.33.1",
+]
